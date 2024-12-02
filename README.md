@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Oiseh Omokheoa 
 - 👀 I’m interested in Data Science, Backend web development and cross platform app development 
-- 🌱 I’m currently learning Python, ML and Flutter
+- 🌱 I’m currently working with Python and ML utilizing it to solve real world problems
 - 💞️ I’m looking to collaborate on as many open source projects as I can lay my hands on😊
 - 📫 How to reach me oisehzeme@gmail.com
 
